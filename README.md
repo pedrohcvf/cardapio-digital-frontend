@@ -18,7 +18,7 @@ Interface web para gerenciamento de cardápio digital, consumindo a [Cardápio D
 
 ## Como rodar
 
-1. Certifique-se de que a [API](link-do-repo-do-back) está rodando em `localhost:8080`
+1. Certifique-se de que a [API](https://github.com/pedrohcvf/cardapio-digital-backend) está rodando em `localhost:8080`
 2. Instale as dependências:
 ```bash
    npm install
